@@ -1,0 +1,1 @@
+console.table({ name: 'Denis', age: 20 })
